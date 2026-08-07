@@ -1,11 +1,15 @@
 # 🚀 About Me:
  Hi, I'm Tunar 👋
  
-### SOC Analyst 
+```bash
+tunar@soc:~$ whoami
+Information Security undergrad & Blue Team-trained analyst based in Sumqayit, Azerbaijan 🇦🇿
  
-Information Security undergraduate and Blue Team–trained analyst based in Sumqayit, Azerbaijan. I work hands-on with SIEM and EDR platforms for log analysis, alert triage, and incident response — and I automate investigation workflows in Python to cut manual triage time. I also apply an offensive-security mindset (VAPT) to better understand attacker TTPs and strengthen defense-in-depth.
- 
----
+tunar@soc:~$ cat mission.txt
+> Hands-on with SIEM/EDR for log analysis, alert triage & incident response.
+> Automating investigation workflows in Python to cut manual triage time.
+> Building advanced Blue Team detection & response playbooks to stay ahead of attacker TTPs.
+```
  
 ### 🔭 Currently
 - 🎓 B.Sc. in Information Security @ Baku Engineering University
