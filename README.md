@@ -6,7 +6,7 @@ tunar@soc:~$ whoami
 Information Security undergrad & Blue Team-trained analyst based in Sumqayit, Azerbaijan 🇦🇿
  
 tunar@soc:~$ cat mission.txt
-> Hands-on with SIEM/EDR for log analysis, alert triage & incident response.
+> Hands-on with SIEM/XDR for log analysis, alert triage & incident response.
 > Automating investigation workflows in Python to cut manual triage time.
 > Building advanced Blue Team detection & response playbooks to stay ahead of attacker TTPs.
 ```
