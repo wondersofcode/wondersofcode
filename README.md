@@ -1,7 +1,7 @@
 # 🚀 About Me:
  Hi, I'm Tunar 👋
  
-### SOC Analyst Junior
+### SOC Analyst 
  
 Information Security undergraduate and Blue Team–trained analyst based in Sumqayit, Azerbaijan. I work hands-on with SIEM and EDR platforms for log analysis, alert triage, and incident response — and I automate investigation workflows in Python to cut manual triage time. I also apply an offensive-security mindset (VAPT) to better understand attacker TTPs and strengthen defense-in-depth.
  
